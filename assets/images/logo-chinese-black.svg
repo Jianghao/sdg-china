@@ -12,7 +12,7 @@
    viewBox="0 0 301.479 301.42099"
    version="1.1"
    id="svg1081"
-   sodipodi:docname="logo-chinese.svg"
+   sodipodi:docname="logo-chinese-black.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata1085">
@@ -39,7 +39,7 @@
      id="namedview1083"
      showgrid="false"
      inkscape:zoom="2.623608"
-     inkscape:cx="90.782084"
+     inkscape:cx="28.082168"
      inkscape:cy="137.92182"
      inkscape:window-x="1911"
      inkscape:window-y="-9"
@@ -153,6 +153,6 @@
          id="tspan1087"
          x="150.93718"
          y="249.80643"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:56px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">CHINA</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:56px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1">CHINA</tspan></text>
   </g>
 </svg>
